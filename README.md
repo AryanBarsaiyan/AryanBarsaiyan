@@ -6,11 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/aryan24623" target="blank"><img src="https://img.shields.io/twitter/follow/aryan24623?logo=twitter&style=for-the-badge" alt="aryan24623" /></a> </p>
 
-- 🔭 I’m currently working on **Resume-Project**
+- 🔭 I’m currently working at **Recruit CRM**
 
-- 🌱 I’m currently learning **JavaScript**
-
-- 💬 Ask me about **Html,C++,CSS**
+- 💬 Ask me about anything
 
 - 📫 How to reach me **aryanbarsaiyan@gmail.com**
 
